@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Mining progress
+token_progress.json
+
+# Decrypted secrets (jangan di-commit)
+rahasia.txt
+secrets/rahasia.txt
+
+# OS files
+.DS_Store
+Thumbs.db
